@@ -1,0 +1,12 @@
+	Task 0:
+It take 0(1) to take the length and O(1) to  reach elements.So O(1).
+	Task 1:
+For the for loop O(n) for the if statements which include a for loop (with the in command) also O(n) ,the if is O(1) so all together O(n^2).
+	Task 2:
+For the for loop O(n),for the search its a specific number of digits a small one so lets say for examle O(9) witch is equivilent to O(1), 
+for the if statements which include a for loop (with the in command) also O(n) ,the if is O(1) .So here also O(n^2)
+	Task 3:
+For the for loop O(n),for the search its a specific number of digits a small one so lets say for examle O(9) witch is equivilent to O(1),
+ for the if statements which include a for loop (with the not in command) also O(n) ,the if is O(1), the sort is O(nlogn) .So here also O(n^2)
+	Task 4:
+O(nlogn) because of the sort function
